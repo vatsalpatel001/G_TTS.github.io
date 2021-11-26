@@ -1,0 +1,5 @@
+coverage
+example
+src
+test
+.travis.yml
